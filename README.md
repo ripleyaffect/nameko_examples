@@ -13,3 +13,7 @@ Services 2 - 5 require a [rabbitmq server](https://www.rabbitmq.com/download.htm
 ```sh
 nameko run service_{x}
 ```
+
+## Presentation
+
+Slides for the presentation can be found [here](http://slides.com/thomaspeterson-3/microservices-with-nameko)
